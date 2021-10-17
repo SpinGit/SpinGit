@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SpinGit
+- 👀 I’m interested in cloud development, typescript and python.
+- 🌱 I’m currently learning AWS.
